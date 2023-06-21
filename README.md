@@ -37,16 +37,16 @@ Clone the repository to run the project. Install all dependencies, run the proje
 
 ### Installation
 
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
+
+1. Clone the repo
    ```sh
    git clone https://github.com/igor-tech/ProgressTerra
    ```
-3. Install NPM packages
+2. Install NPM packages
    ```sh
    yarn install
    ```
-4. Start packages
+3. Start packages
    ```sh
    yarn start
    ```
