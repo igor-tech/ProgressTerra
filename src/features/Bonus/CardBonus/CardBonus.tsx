@@ -1,6 +1,6 @@
 import {useAppDispatch, useAppSelector} from 'common/hooks/useReactRedux';
 import {accessTokenSelector, generalInfoSelector} from 'common/selectors';
-import {redactorDataTime} from 'common/utils/redactor-data-time';
+import {redactorDataTime} from 'common/utils/redactor-data-time/redactor-data-time';
 import {getGeneralInformation} from 'features/Bonus/bonus-slice';
 import React, {useEffect} from 'react';
 import iconFire from '../../../assets/fire.svg'

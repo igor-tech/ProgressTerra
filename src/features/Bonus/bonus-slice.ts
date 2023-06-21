@@ -1,5 +1,5 @@
 import {createSlice} from '@reduxjs/toolkit';
-import {createAppAsyncThunk} from 'common/utils/create-app-async-thunk';
+import {createAppAsyncThunk} from 'common/utils/create-app-async-thunk/create-app-async-thunk';
 import {
 	bonusAPI,
 	RequestCreateAccessTokenType,
