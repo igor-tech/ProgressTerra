@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/ProgressTerra/static/css/main.664f07b6.css",
-    "main.js": "/ProgressTerra/static/js/main.049c8de0.js",
+    "main.js": "/ProgressTerra/static/js/main.d4fc74a2.js",
     "static/media/information.svg": "/ProgressTerra/static/media/information.28f54d9bb5708cbacc84c3a59dbbb329.svg",
     "static/media/fire.svg": "/ProgressTerra/static/media/fire.04fd94bcaba1133e0c1eb27f2f269598.svg",
     "index.html": "/ProgressTerra/index.html",
     "main.664f07b6.css.map": "/ProgressTerra/static/css/main.664f07b6.css.map",
-    "main.049c8de0.js.map": "/ProgressTerra/static/js/main.049c8de0.js.map"
+    "main.d4fc74a2.js.map": "/ProgressTerra/static/js/main.d4fc74a2.js.map"
   },
   "entrypoints": [
     "static/css/main.664f07b6.css",
-    "static/js/main.049c8de0.js"
+    "static/js/main.d4fc74a2.js"
   ]
 }
