@@ -18,11 +18,11 @@ export const CardBonus = () => {
 	return (
 		<div className={'card'}>
 			<div className={'card-title'}>
-				<h1>{generalInformation.data?.currentQuantity} бонусов</h1>
+				<h1>{generalInformation.data?.currentQuantity || '~~'} бонусов</h1>
 				<div className={'card-info'}>
-					<span>{redactorDataTime(generalInformation.data?.dateBurning)} сгорит</span>
+					<span>{redactorDataTime(generalInformation.data?.dateBurning) || '~~'} сгорит</span>
 					<img src={iconFire} alt=""/>
-					<span>{generalInformation.data?.forBurningQuantity} бонусов</span>
+					<span>{generalInformation.data?.forBurningQuantity || '~~'} бонусов</span>
 				</div>
 			</div>
 			<button/>
