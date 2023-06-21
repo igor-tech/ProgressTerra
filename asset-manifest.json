@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/ProgressTerra/static/css/main.073c9b0a.css",
-    "main.js": "/ProgressTerra/static/js/main.010a341b.js",
-    "static/js/787.39e59e88.chunk.js": "/ProgressTerra/static/js/787.39e59e88.chunk.js",
+    "main.css": "/ProgressTerra/static/css/main.664f07b6.css",
+    "main.js": "/ProgressTerra/static/js/main.049c8de0.js",
+    "static/media/information.svg": "/ProgressTerra/static/media/information.28f54d9bb5708cbacc84c3a59dbbb329.svg",
+    "static/media/fire.svg": "/ProgressTerra/static/media/fire.04fd94bcaba1133e0c1eb27f2f269598.svg",
     "index.html": "/ProgressTerra/index.html",
-    "main.073c9b0a.css.map": "/ProgressTerra/static/css/main.073c9b0a.css.map",
-    "main.010a341b.js.map": "/ProgressTerra/static/js/main.010a341b.js.map",
-    "787.39e59e88.chunk.js.map": "/ProgressTerra/static/js/787.39e59e88.chunk.js.map"
+    "main.664f07b6.css.map": "/ProgressTerra/static/css/main.664f07b6.css.map",
+    "main.049c8de0.js.map": "/ProgressTerra/static/js/main.049c8de0.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.010a341b.js"
+    "static/css/main.664f07b6.css",
+    "static/js/main.049c8de0.js"
   ]
 }
